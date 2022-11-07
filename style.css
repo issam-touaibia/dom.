@@ -1,0 +1,166 @@
+.dom{
+background-image: url(./img/pic1.jpg);
+}
+
+.image1{ display: flex;
+justify-content: space-evenly;
+
+}
+.boxe{
+    
+    background-color: #8b91e7;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(19, 18, 18);
+    border-radius: 30px
+}
+
+.boxe1{
+    
+    background-color: #959da5;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(29, 29, 29);
+    border-radius: 30px
+    
+}
+.boxe2{
+    
+    background-color: #5793c4;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(20, 20, 20);
+    border-radius: 30px
+}
+
+.logo{
+    text-decoration: none;
+    color: #3a6cf4;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{ font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+}
+
+.image2{
+
+display: flex;
+ justify-content: space-evenly;
+}
+.boxe3{
+
+    background-color: #3d73c4;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(19, 18, 18);
+    border-radius: 30px
+}
+.boxe4{
+
+    background-color: #57949c;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(19, 18, 18);
+    border-radius: 30px
+}
+.boxe5{
+
+    background-color: #8b91e7;
+    width: 350px;
+    height: 500px;
+    padding: 15px;
+    color:rgb(19, 18, 18);
+    border-radius: 30px
+}
+
+header{
+    background-color: #adaaaa;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px 200px;
+    color: #3a6cf4;
+}
+.gif{
+    justify-content: center;
+}
+ .button{
+    display: flex;
+justify-content: center;
+
+ }
+.minus{ width: 40px;
+    height: 25px;
+}
+.plus{ width:40px ;
+height:25px ;
+}
+.qte{width: 30px;
+height: 6px;
+}
+
+.minus1{ width: 40px;
+    height: 25px;
+}
+.plus1{ width:40px ;
+height:25px ;
+}
+.qte1{width: 30px;
+    height: 6px;}
+.minus2{ width: 40px;
+    height: 25px;
+}
+.plus2{ width:40px ;
+height:25px ;
+}
+.qte2{width: 30px;
+    height: 6px;}
+.minus3{ width: 40px;
+    height: 25px;
+}
+.plus3{ width:40px ;
+height:25px ;
+}
+.qte3{width: 30px;
+    height: 6px;}
+.minus4{ width: 40px;
+    height: 25px;
+}
+.plus4{ width:40px ;
+height:25px ;
+}
+.qte4{width: 30px;
+    height: 6px;}
+.minus5{ width: 40px;
+    height: 25px;
+}
+.plus5{ width:40px ;
+height:25px ;
+
+}
+.qte5{width: 30px;
+    height: 6px;}
+    
+
+.total{
+    color: aqua;
+}
+.totalprice{
+    color: brown;
+}
+    
